@@ -1,4 +1,5 @@
 *********************************** About this project ***********************************
+
 The "Ski contest" project is wrriten in Java using the Swing class.
 The main purpose of it is to get to know and implement design patterns.
 The DP I implemented here are:
