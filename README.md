@@ -3,13 +3,13 @@
 The "Ski contest" project is wrriten in Java using the Swing class.
 The main purpose of it is to get to know and implement design patterns.
 The DP I implemented here are:
-                                Decorator
-                                Deligator
-                                Builder
-                                Factory method
-                                Prototype
-                                Singleton
-                                ThreadPool
+                                Decorator,
+                                Deligator,
+                                Builder,
+                                Factory method,
+                                Prototype,
+                                Singleton,
+                                ThreadPool,
                                 and so..
                                 
 
